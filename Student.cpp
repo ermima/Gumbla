@@ -1,3 +1,9 @@
+/*  
+Student record system using linked list
+data structure.
+*by Ermias Antigegn
+*/
+
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
